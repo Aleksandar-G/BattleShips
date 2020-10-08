@@ -1,39 +1,25 @@
 #container {
-	top: 30px;
-	outline:1px solid #000;
-	margin:auto;
-	height:600px;
-	width:600px;
-	border: none;
-	float:left;
+  top: 30px;
+  outline: 1px solid #000;
+  margin: auto;
+  height: 600px;
+  width: 600px;
+  border: none;
+  float: left;
 }
 
 .grid {
-	position: absolute;
-	/*margin:0;
-    padding:0;*/
-    height:30px;
-	width:30px;
-	/*border:none;*/
-	outline:1px solid #000;
-	/*display:inline-block;*/
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  outline: 1px solid #000;
 }
 
-.info{
-	float:right;
-	margin-top: 200px;
-	margin-right: 300px;
-	font-size: 25px;
-	font-family: Verdana, Geneva, Tahoma, sans-serif;
-	font-weight: 1000;
-	
+.info {
+  float: right;
+  margin-top: 200px;
+  margin-right: 300px;
+  font-size: 25px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 1000;
 }
-/*#infoTries{
-	margin-right: 300px;
-	margin-top: 200px;
-
-}
-#infoHits{
-	margin-right: 300px;
-	padding-top: 200px;
-}*/
